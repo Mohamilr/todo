@@ -1,0 +1,8 @@
+.todo-input {
+    padding: .8rem;
+    outline: none;
+    color: #ffffff;
+    border: .063rem solid #242424;
+    border-radius: .25rem;
+    font-size: 1.1rem;
+}
